@@ -1,0 +1,31 @@
+{
+  "folders": [
+	{
+		"path": "../../10MO CICLO/Metodologia de Tesis/App/backend-app"
+	},
+	{
+		"path": "../../10MO CICLO/Metodologia de Tesis/App/front-client"
+	},
+	{
+		"path": "../../10MO CICLO/Metodologia de Tesis/App/front-adm"
+	},
+	{
+		"path": "../../10MO CICLO/Metodologia de Tesis/App/apriori-algorithm"
+	},
+	{
+		"path": "../../10MO CICLO/React/todo-app-ts"
+	},
+	{
+		"path": "../../10MO CICLO/React/tic-tac-toe"
+	},
+	{
+		"path": "../../10MO CICLO/React/multi-select"
+	},
+	{
+		"path": "../../10MO CICLO/React/translator-react-ts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "WebSite3270816"
+  }
+}
